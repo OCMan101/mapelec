@@ -1,6 +1,6 @@
 body {
     font-family: "Optima", Arial, Helvetica, sans-serif;
-    background-color: rgb(236, 218, 195);
+    background-color: rgb(255, 255, 255);
     font-size: 3rem;
     text-align: center;
 
@@ -87,6 +87,6 @@ footer {
 
 .fa-facebook {
     font-size: 3rem;
-    color: #1877F2;
+    color: #1357b1;
     text-decoration: none !important;
 }
